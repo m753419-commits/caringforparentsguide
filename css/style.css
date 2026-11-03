@@ -637,3 +637,15 @@ address {
     margin: 0.7in;
   }
 }
+
+.scope-note {
+  font-size: 0.95rem;
+  border-left: 3px solid #1a3f36;
+  padding: 0.35rem 0 0.35rem 0.75rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.footer-scope {
+  margin: 0 0 0.85rem;
+  max-width: 40rem;
+}
