@@ -649,3 +649,20 @@ address {
   margin: 0 0 0.85rem;
   max-width: 40rem;
 }
+
+.button-link {
+  display: inline-block;
+  padding: 0.65rem 1.2rem;
+  border-radius: 6px;
+  background: var(--green-900);
+  color: #fff;
+  font-family: var(--sans);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button-link:hover,
+.button-link:focus {
+  color: #fff;
+  text-decoration: underline;
+}
