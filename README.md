@@ -14,7 +14,7 @@ Open `http://127.0.0.1:8000/`.
 
 ## What is here
 
-- Home page with the fourteen guides, plus one page per guide
+- Home page with all of the guides, plus one page per guide
 - About, Contact, Privacy Policy, and Disclaimer, linked in the header and footer
 - `404.html`, `sitemap.xml`, `robots.txt`, and `ads.txt` for `https://caringforparentsguide.com`
 - `CNAME` containing `caringforparentsguide.com`
