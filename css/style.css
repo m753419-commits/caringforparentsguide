@@ -252,6 +252,11 @@ main:focus {
   overflow-wrap: anywhere;
 }
 
+.prose a.term-link {
+  text-decoration-style: dotted;
+  text-decoration-thickness: 2px;
+}
+
 .prose a:hover,
 .toc a:hover,
 .more a:hover,
