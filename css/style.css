@@ -257,6 +257,17 @@ main:focus {
   text-decoration-thickness: 2px;
 }
 
+/* In-page term definitions (span id="def-..."), currently only on the respite guide */
+.prose [id^="def-"] {
+  scroll-margin-top: 1.5rem;
+}
+
+.prose [id^="def-"]:target {
+  background: #fff3c4;
+  box-shadow: 0 0 0 3px #fff3c4;
+  border-radius: 2px;
+}
+
 .prose a:hover,
 .toc a:hover,
 .more a:hover,
