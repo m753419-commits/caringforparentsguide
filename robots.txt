@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /medicare/_templates/
 
 Sitemap: https://caringforparentsguide.com/sitemap.xml
