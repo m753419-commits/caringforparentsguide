@@ -539,6 +539,11 @@ td.checks {
   gap: 0.1rem 1.1rem;
 }
 
+.footer-group {
+  font-weight: 600;
+  margin: 0.6rem 0 0;
+}
+
 address {
   font-style: normal;
   margin: 0.5rem 0 1rem;
