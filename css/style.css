@@ -682,3 +682,8 @@ address {
   color: #fff;
   text-decoration: underline;
 }
+
+.footer-affiliation {
+  margin: 0 0 0.85rem;
+  max-width: 40rem;
+}
