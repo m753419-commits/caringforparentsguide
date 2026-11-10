@@ -1,11 +1,11 @@
-/* Simplified Chinese Medicare section. Scoped to body.medicare so the English site is unchanged. */
+/* Chinese (Taiwan Traditional) Medicare section under /zh/medicare/. Scoped to body.medicare so the English site is unchanged. */
 
 body.medicare {
   --ink: #1c1917;
   --ink-soft: #3a332e;
   --link: #0b3f36;
   --focus: #0b3f36;
-  font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Noto Sans CJK SC", "Microsoft YaHei", "微软雅黑", "Segoe UI", "Noto Sans", sans-serif;
+  font-family: "PingFang TC", "Noto Sans TC", "Noto Sans CJK TC", "Microsoft JhengHei", "微軟正黑體", "Segoe UI", "Noto Sans", sans-serif;
   font-size: 1.25rem;
   line-height: 1.75;
   color: var(--ink);

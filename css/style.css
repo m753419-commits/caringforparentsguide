@@ -539,6 +539,11 @@ td.checks {
   gap: 0.1rem 1.1rem;
 }
 
+.footer-group {
+  font-weight: 600;
+  margin: 0.6rem 0 0;
+}
+
 address {
   font-style: normal;
   margin: 0.5rem 0 1rem;
@@ -681,4 +686,9 @@ address {
 .button-link:focus {
   color: #fff;
   text-decoration: underline;
+}
+
+.footer-affiliation {
+  margin: 0 0 0.85rem;
+  max-width: 40rem;
 }
